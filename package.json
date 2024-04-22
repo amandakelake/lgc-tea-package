@@ -1,5 +1,5 @@
 {
-  "name": "@lgc/tea-package",
+  "name": "lgc-tea-package",
   "version": "1.0.0",
   "description": "for tea",
   "main": "src/index.js",
